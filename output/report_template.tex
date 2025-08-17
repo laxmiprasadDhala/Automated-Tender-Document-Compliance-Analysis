@@ -1,0 +1,66 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper, margin=1in]{geometry}
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{caption}
+\usepackage{setspace}
+\usepackage{lipsum}
+
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Tender document comparision system}
+
+\rfoot{Page \thepage}
+
+\begin{document}
+\begin{titlepage}
+    \centering
+    {\scshape\LARGE Tender document comparision system \par}
+    \vspace{1cm}
+
+    {\Large\itshape Made by: Laxmi Prasad Dhala \par}
+    \vfill
+    % \Large
+    % Internship Period: July 2025 \\
+    % Department: IT \\
+    % Guide: [Scientist Name] \\
+    % Tender Number: [TENDER_NO] \\
+    % Date: [DATE]
+\end{titlepage}
+
+
+
+\section*{Introduction}
+This report presents an automated comparison of tender requirements with specifications submitted by three firms. The analysis uses OCR, text extraction, and AI (via the Mistral model using Ollama) to compare technical compliance and generate structured tabular output.
+
+\section*{Technologies Used}
+\begin{itemize}
+    \item Python
+    \item pytesseract / pdfplumber \textendash PDF Text Extraction
+    \item Ollama + Mistral \textendash LLM-powered text analysis
+    \item LaTeX \textendash Report generation
+\end{itemize}
+
+\section*{Comparison Table}
+\noindent The following table shows whether each firm's specification matches the corresponding tender requirement:
+
+% \input{comparison_table}
+
+\vspace{1cm}
+\textbf{Note:} "Yes" indicates that the firm's specification satisfies the tender requirement. "No" indicates non-compliance.
+
+\section*{Conclusion}
+This AI-powered comparison framework helps decision-makers quickly evaluate suppliers based on tender compliance. This approach improves accuracy, reduces manual effort, and can be extended to support various domains like electronics, mechanical tenders, or software procurement.
+
+\vfill
+\begin{center}
+    \textit{--- End of Report ---}
+\end{center}
+
+\end{document}

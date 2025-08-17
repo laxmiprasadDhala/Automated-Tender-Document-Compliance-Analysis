@@ -1,0 +1,88 @@
+
+\documentclass[12pt]{article}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage[table]{xcolor}
+\usepackage[a4paper, margin=0.8in]{geometry}
+\usepackage{titlesec}
+\renewcommand{\arraystretch}{1.3}
+\setlength{\parskip}{6pt}
+\titleformat{\section}{\normalfont\Large\bfseries}{}{0pt}{}
+
+\begin{document}
+
+\begin{center}
+    \LARGE \textbf{Tender document comparison system}\\
+\end{center}
+
+\vspace{1cm}
+
+\section*{Executive Summary}
+This report presents a comprehensive compliance analysis of tender requirements against specifications submitted by three firms. Each requirement has been evaluated using AI-powered analysis to determine compliance status.
+
+\section*{Methodology}
+\begin{itemize}
+    \item \textbf{Requirement Extraction:} AI-powered extraction of technical requirements from tender document
+    \item \textbf{Compliance Evaluation:} Systematic comparison of firm specifications against each requirement  
+    \item \textbf{Scoring:} Binary compliance assessment (Complied/Not Complied)
+\end{itemize}
+
+\section*{Compliance Analysis Results}
+
+\begin{longtable}{|>{\raggedright\arraybackslash}p{7cm}|
+                        >{\centering\arraybackslash}p{2.5cm}|
+                        >{\centering\arraybackslash}p{2.5cm}|
+                        >{\centering\arraybackslash}p{2.5cm}|}
+\hline
+\rowcolor{blue!20}
+\textbf{Technical Requirement} & \textbf{Firm 1} & \textbf{Firm 2} & \textbf{Firm 3} \\
+\hline
+\endfirsthead
+
+\hline
+\rowcolor{blue!20}
+\textbf{Technical Requirement} & \textbf{Firm 1} & \textbf{Firm 2} & \textbf{Firm 3} \\
+\hline
+\endhead
+
+Desktop Computers: & Complied & Complied & Complied \\
+01 Supply, Installation and testing of Desktop Computers with following specifications: & Not Complied & Complied & Complied \\
+(a) CPU : Intel Core i7-7700, 8MB L3 cache /Min 8 core/3.6GHz/ 65W, with Intel(R) Core(TM) i7 Label & Not Complied & Not Complied & Not Complied \\
+(b) Chipset: Intel® Q270 Chipset or better compatible with CPU & Not Complied & Not Complied & Complied \\
+(c) Mother Board: OEM / Intel Original Mother Board & Not Complied & Complied & Complied \\
+(d) Slots : 1 full height PCIe x16 , 1 full height PCIe x16 (wired x 4) , 2 full height PCIe x1 & Not Complied & Not Complied & Not Complied \\
+(e) Memory : 8GB 2400MHz DDR4 Memory, RAM expandability up to 64 GB, (Memory slot should be 4 Min) & Complied & Complied & Not Complied \\
+(f) Monitor : 18.5” LED, TCO-05 CETRIFICED, SAME MAKE & Not Complied & Not Complied & Complied \\
+(g) Graphics Card : AMD Radeon R7 450, 4GB, (DP/DP/SL-DVI-I) & Complied & Complied & Not Complied \\
+(h) HDD : 3.5” 1TB 7.2k RPM SATA & Complied & Complied & Complied \\
+(i) Keyboard : 104 keys board PS2 / USB interface (PS2 is preferable) & Complied & Not Complied & Not Complied \\
+(j) Mouse : USB / PS2 Interface (PS2 is preferable) & Not Complied & Not Complied & Not Complied \\
+(k) DVD Writer : 8x or better DVD writer & Not Complied & Not Complied & Not Complied \\
+(l) Ports : 10 External USB (6 USB 3.1 Gen 1 (2 front/4 rear) and 4 2.0 (2 front/2 rear) ), 1 RJ-45 ;1 Serial ;2 Display Port 1.2, 1 HDMI 1.4 ;2 PS/2 ;1 Universal Audio Jack 1 Line-out & Complied & Complied & Complied \\
+(m) Networking : 10/100/1000 on board integrated network port & Complied & Complied & Complied \\
+(n) Operating System : Windows 10 Pro (64bit) English & Complied & Complied & Complied \\
+(o) Security : Trusted Platform Module(TPM)2.0, Data Protection|Encryption, Microsoft Windows Bit locker, Local HDD data wipe via BIOS ("Secure Erase"), Encryption - SED HDD (Opal FIPS), Chassis lock slot support, Lockable Port Cover, Chassis Intrusion Switch, Setup/BIOS Password, Intel® Trusted Execution Technology, Intel® Identity Protection Technology, Intel Software Guard extensions. & Complied & Complied & Complied \\
+(p) Power Supply : 240W up to 92\% efficient Power Supply & Complied & Complied & Not Complied \\
+(q) Cabinet : Mini Tower, Tool less chassis & Complied & Not Complied & Complied \\
+(r) Industry Standard Compliance : Energy Star 6.0, EPEAT registered in India & Complied & Complied & Complied \\
+Note: & Complied & Complied & Complied \\
+
+\hline
+\end{longtable}
+
+\section*{Legend}
+\begin{itemize}
+    \item \textbf{Complied:} Firm's specification meets or exceeds the tender requirement
+    \item \textbf{Not Complied:} Firm's specification does not meet the tender requirement or information is missing
+\end{itemize}
+
+\section*{Recommendations}
+Based on this automated compliance analysis, decision-makers should:
+\begin{enumerate}
+    \item Review firms with highest compliance rates
+    \item Manually verify critical requirements marked as "Not Complied"
+    \item Consider requesting clarifications for ambiguous specifications
+    \item Evaluate cost-benefit for over-specified solutions
+\end{enumerate}
+
+\end{document}

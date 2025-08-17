@@ -1,0 +1,396 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.23)  23 JUL 2025 16:49
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./requirements_compliance_report.tex
+(requirements_compliance_report.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count195
+\LTcapwidth=\dimen141
+\LT@head=\box51
+\LT@firsthead=\box52
+\LT@foot=\box53
+\LT@lastfoot=\box54
+\LT@gbox=\box55
+\LT@cols=\count196
+\LT@rows=\count197
+\c@LT@tables=\count198
+\c@LT@chunks=\count199
+\LT@p@ftn=\toks17
+)
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen142
+\ar@mcellbox=\box56
+\extrarowheight=\dimen143
+\NC@list=\toks18
+\extratabsurround=\skip54
+\backup@length=\skip55
+\ar@cellbox=\box57
+)
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+) (C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
+\everycr=\toks19
+\minrowclearance=\skip56
+\rownum=\count266
+) (C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count267
+\Gm@cntv=\count268
+\c@Gm@tempcnt=\count269
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks21
+
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box58
+\beforetitleunit=\skip57
+\aftertitleunit=\skip58
+\ttl@plus=\dimen152
+\ttl@minus=\dimen153
+\ttl@toksa=\toks22
+\titlewidth=\dimen154
+\titlewidthlast=\dimen155
+\titlewidthfirst=\dimen156
+)
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count270
+\l__pdf_internal_box=\box59
+) (requirements_compliance_report.aux)
+\openout1 = `requirements_compliance_report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(C:\Users\gagan\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count271
+\scratchdimen=\dimen157
+\scratchbox=\box60
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen158
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks24
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(57.81621pt, 481.87546pt, 57.81621pt)
+* v-part:(T,H,B)=(57.81621pt, 729.41443pt, 57.81621pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=481.87546pt
+* \textheight=729.41443pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-51.45378pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Undefined control sequence.
+<argument> ...rtpbox {\@nextchar }\insert@pcolumn 
+                                                  \@endpbox \do@row@strut \o...
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.35 ...    >{\centering\arraybackslash}p{2.5cm}|}
+                                                  
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.37 \rowcolor
+              {blue!20}
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.37 \rowcolor
+              {blue!20}
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.40 \endfirsthead
+                  
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.40 \endfirsthead
+                  
+? 
+
+Overfull \hbox (252.77957pt too wide) in alignment at lines 35--40
+ [] [] [] [] 
+ []
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.40 \endfirsthead
+                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.40 \endfirsthead
+                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.40 \endfirsthead
+                  
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.40 \endfirsthead
+                  
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.43 \rowcolor
+              {blue!20}
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.43 \rowcolor
+              {blue!20}
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.46 \endhead
+             
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.46 \endhead
+             
+? 
+
+Overfull \hbox (252.77957pt too wide) in alignment at lines 40--46
+ [] [] [] [] 
+ []
+
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.46 \endhead
+             
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.46 \endhead
+             
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   &
+l.46 \endhead
+             
+? 
+! Missing # inserted in alignment preamble.
+<to be read again> 
+                   \cr 
+l.46 \endhead
+             
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \CT@LT@sep \multispan...
+l.71 \end
+         {longtable}
+? 
+! Undefined control sequence.
+\LT@@hline ... \tag_mc_end: \tbl_gdecr_row_count: 
+                                                  }\cr \noalign {\penalty \@...
+l.71 \end
+         {longtable}
+? 
+
+Overfull \hbox (2338.9743pt too wide) in alignment at lines 46--71
+ [] [] [] [] 
+ []
+
+
+Package longtable Warning: Column widths have changed
+(longtable)                in table 1 on input line 71.
+
+[1
+
+{C:/Users/gagan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+
+Package longtable Warning: Table widths have changed. Rerun LaTeX.
+
+[2] (requirements_compliance_report.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 2571 strings out of 474486
+ 40028 string characters out of 5743755
+ 1949542 words of memory out of 5000000
+ 24882 multiletter control sequences out of 15000+600000
+ 560223 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,6n,70p,486b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\gagan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk><C:/Users/gagan/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx12.pfb><C:/Users/gagan/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb>
+Output written on D:/ITR\2.0\output\requirements_compliance_report.pdf (2 pages
+, 45084 bytes).
+PDF statistics:
+ 25 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
